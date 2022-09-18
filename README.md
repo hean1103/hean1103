@@ -1,4 +1,10 @@
-### Hi there 👋
+## 혜얌 of._.mi
+
+### 🤓 Hean 🤓
+
+<a href="https://github.com/hean1103/hean1103/"><img src="https://img.shields.io/badge/LinkedIn-#0A66C2?style=flat-square&logo=LinkedIn&logoColor=#0A66C2"/></a>
+
+
 
 <!--
 **hean1103/hean1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
