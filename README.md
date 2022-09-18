@@ -19,6 +19,12 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hean1103)](https://solved.ac/hean1103)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hean1103&theme=dark)
+
+### About of._.mi
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hean1103)](https://github.com/hean1103/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hean1103)](https://github.com/hean1103/github-readme-stats)
 <!--
 **hean1103/hean1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
